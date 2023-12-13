@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/ProyectoWeb/static/css/main.e2d7e83f.css",
+    "main.js": "/ProyectoWeb/static/js/main.e3cb8208.js",
+    "static/media/desayunos.mp4": "/ProyectoWeb/static/media/desayunos.68cd0fb4a874d5325d6c.mp4",
+    "static/media/almuerzos.mp4": "/ProyectoWeb/static/media/almuerzos.2e72e199e257c8268f79.mp4",
+    "static/media/bebidas.mp4": "/ProyectoWeb/static/media/bebidas.95a55efa3558bede0926.mp4",
+    "static/media/product4.jpg": "/ProyectoWeb/static/media/product4.94f1bc5d0678e2629aeb.jpg",
+    "static/media/menu_desayuno.jpg": "/ProyectoWeb/static/media/menu_desayuno.2dfad74126868b538845.jpg",
+    "static/media/restaurante.jpg": "/ProyectoWeb/static/media/restaurante.ca98137c644b2f1fe6ed.jpg",
+    "static/media/grefg.jpg": "/ProyectoWeb/static/media/grefg.2befee7a3f8218f88b09.jpg",
+    "static/media/product3.jpg": "/ProyectoWeb/static/media/product3.26dbf87d9c8fd8e0b3f2.jpg",
+    "static/media/product2.jpg": "/ProyectoWeb/static/media/product2.201f8ebd10b441d95dd8.jpg",
+    "static/media/comida-vegana.jpg": "/ProyectoWeb/static/media/comida-vegana.da1b63d643eeb1a8e4dc.jpg",
+    "static/media/_7096a450-db1b-4da1-ad1a-9b32a6154cd8.jpeg": "/ProyectoWeb/static/media/_7096a450-db1b-4da1-ad1a-9b32a6154cd8.214b9f0635ceb9b6a1ac.jpeg",
+    "static/media/menubebidas.jpeg": "/ProyectoWeb/static/media/menubebidas.f5820b17ffe19c002843.jpeg",
+    "static/media/auron.jpg": "/ProyectoWeb/static/media/auron.be1a6dab9d7898688ad5.jpg",
+    "static/media/rubius.jpg": "/ProyectoWeb/static/media/rubius.320215f59a26ebabde85.jpg",
+    "static/media/vegana.webp": "/ProyectoWeb/static/media/vegana.0ec262df41ab8f0a3c37.webp",
+    "index.html": "/ProyectoWeb/index.html",
+    "main.e2d7e83f.css.map": "/ProyectoWeb/static/css/main.e2d7e83f.css.map",
+    "main.e3cb8208.js.map": "/ProyectoWeb/static/js/main.e3cb8208.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2d7e83f.css",
+    "static/js/main.e3cb8208.js"
+  ]
+}
